@@ -1,4 +1,4 @@
-# Where is the french Silicon Salley?
+# Where is the french Silicon Valley?
 
 I grew up in the French Riviera and when I got my first job in Sophia Antipolis (close to Nice) I was told that this place was the french Silicon Valley. I was young and took it for granted. 
 
