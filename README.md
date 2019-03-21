@@ -10,4 +10,4 @@ If you want to find out too, follow me in my (data)quest to factfully determine 
 
 Where is the french Silicon Valley?
 
-This repository host the source file (code + data) about the project aimed to determine "Where is the french Silicon Valley?" based on Foursquare API data.
+This repository hosts the source file (code + data) about the project aimed to determine "Where is the french Silicon Valley?" based on Foursquare API data.
