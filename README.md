@@ -6,7 +6,7 @@ A few years in the future, it's 2018, our president Emmanuel Macron says France 
 
 Whishful thinking or reality? 
 
-If you want to find out too, follow me in my (data)quest to factfully determine if France is really becoming a startup Nation, and if so which cities has the closest Startup Ecosystem to the original (Bay area) Silicon Valley, or simply put:
+If you want to find out too, follow me in my (data)quest to determine weither France is really becoming a startup Nation, and if so which cities has the closest Startup Ecosystem to the original (Bay area) Silicon Valley, or simply put:
 
 Where is the french Silicon Valley?
 
