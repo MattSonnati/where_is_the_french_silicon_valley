@@ -1,4 +1,4 @@
-# Where is the french Silicon Valley?
+# Where is the French Silicon Valley?
 
 I grew up in the French Riviera and when I got my first job as a junior scientist in Sophia Antipolis (close to Nice, south of France) I was told that this place was the french Silicon Valley. I was young and took it for granted. 
 
@@ -8,6 +8,6 @@ Whishful thinking or reality?
 
 If you want to find out too, follow me in my (data)quest to determine weither France is really becoming a startup Nation, and if so which cities has the closest Startup Ecosystem to the original (Bay area) Silicon Valley, or simply put:
 
-Where is the french Silicon Valley?
+Where is the French Silicon Valley?
 
-This repository hosts the source file (code + data) about the project aimed to determine "Where is the french Silicon Valley?" based on Foursquare API data.
+This repository hosts the source file (code + data) about the project aimed to determine "Where is the French Silicon Valley?" based on Foursquare API data.
