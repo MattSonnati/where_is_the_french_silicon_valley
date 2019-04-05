@@ -1,0 +1,17 @@
+Country,Area,Number of places (before feature selection),Number of places (after feature selection),Country
+USA,Silicon Valley,11277,8192,USA
+USA,Boston area,9301,5906,USA
+France,Paris area,8276,5886,France
+France,Lille area,4120,3031,France
+France,Lyon area,2961,2052,France
+France,Marseille Aix-en-Provence area,2182,1357,France
+France,Bordeaux area,1755,1269,France
+France,Toulouse area,1729,1207,France
+France,Nice Sophia Antipolis area,1824,1148,France
+France,Nantes area,1548,1082,France
+France,Montpellier area,1456,1006,France
+France,Strasbourg area,1393,896,France
+France,Rennes area,1111,770,France
+France,Clermont-Ferrand area,832,565,France
+France,Grenoble area,799,548,France
+,Total,50564,34915,
